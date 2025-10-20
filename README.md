@@ -27,8 +27,9 @@ FaceRecognitionSystem/
 ## How to Run
 
 1. **Install Python and Required Libraries**
-   ```bash
+```
 pip install opencv-python numpy pandas pillow
+```
 
 2.Run the Program
  -> python main.py
